@@ -1,6 +1,6 @@
 # full-stack_bankingapplication
 
-Full-Stack Banking Application is a project that refactors a banking application to improve user experience improved user interface, enhanced login security, blank deposits, and overdraft protection.  The following enhancements/features were added:
+Full-Stack Banking Application is a project that refactors a banking application to improve user experience, user interface, enhanced login security, blank deposits, and overdraft protection.  The following enhancements/features were added:
 1. **Professional Web Design** through Bootstrap and stand-along CSS styling of logo, navigation bar, and background of the SPA
 2. **Password Rules** through error messaging to meet limited password character requirements
 3. **Blank Deposit Notification** through error messaging to enter deposit amounts greater than $0
